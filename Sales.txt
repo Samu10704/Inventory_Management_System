@@ -1,0 +1,7 @@
+Samruddhi,1234567890,abc@gmail.com,5 Star,2,10,50,Sat Aug  3 07:53:54 2024
+Siddhant,3216549870,xyz@gmail.com,Cake,3,10,4000,Sat Aug  3 07:54:58 2024
+Sama ,2498798509,sjbdc@gmail.com,Soap,5,10,150,Sat Aug  3 08:05:29 2024
+Ved,6543216532,sdnsd@gmail.com,Candy,4,5,5,Sat Aug  3 08:06:35 2024
+Priya,542165765132,dkhkjxkcm@gmail.com,Candy,4,5,5,Sat Aug  3 08:07:53 2024
+Samruddhi,37653878264,abc@gmail.com,Cake,3,1,400,Thu Feb  6 23:06:10 2025
+Samu,35787398924,abc@gmail.com,Milky Bar,1,4,40,Thu Feb  6 23:08:46 2025
